@@ -1,0 +1,44 @@
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.env.local
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+
+# Misc
+*.tmp
+.tmp/
+dist/
